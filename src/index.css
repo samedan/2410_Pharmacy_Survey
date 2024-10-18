@@ -1,0 +1,28 @@
+@import "./modal-video.scss";
+body {
+    font-family: "Roboto", sans-serif;
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.my-custom-class {
+    position: absolute;
+    top: 10px !important;
+    left: 10px !important;
+}
+
+.button-header {
+    float: right;
+}
+
+.survey9 {
+    display: none !important;
+}
+.survey8 {
+    display: none !important;
+}
+.survey7 {
+    display: none !important;
+}
